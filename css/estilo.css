@@ -1,0 +1,30 @@
+.navbarMedico{
+
+    background-color: #42718b;
+  
+}
+
+.imagenMedico{
+
+    width: 250px;
+    margin-top: -47px;
+}
+
+.imagenCruz{
+
+    width: 110px;
+}
+
+.textoNavbar{
+
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+
+.navbarDebajo{
+    background-color: #b4ecd3;
+}
+
+.borderTitle{
+    background-color: #6fddae;
+}
